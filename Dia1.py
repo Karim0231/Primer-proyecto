@@ -1,0 +1,1 @@
+print("La cerveza se llama " + "\n" +'"' + input("Tipo de raza de perro: ") + " " + input("Comida favorita: ") + '"')
